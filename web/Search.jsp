@@ -81,7 +81,8 @@
                             <option value="year">Year</option>
                             <option value="types">Type</option>
                             <option value="director">Director</option>
-                        </select>
+                            <option value="resolution">Resolution</option>
+                            <option value="chapter">Chapter</option>
                             <input type="text" name="search" width="30px">
 
                         <input class="button1" type="submit" value="Search">
